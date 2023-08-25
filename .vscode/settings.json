@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "13-O Modelo de Precificacao de Ativos"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
